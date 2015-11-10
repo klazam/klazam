@@ -14,3 +14,9 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
+
+//= require jquery-1.11.3.min
+//= require jquery.sticky
+//= require slick.min
+//= require main
+
